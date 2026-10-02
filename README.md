@@ -1,4 +1,4 @@
-<div align="center">
+<<div align="center">
 
 # Hey, I'm RamieHashmi
 
@@ -48,7 +48,9 @@ Some of the projects I've developed:
 ### Contact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-RamieHashmi-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/channels/@me/1523528301182976115">
+    <img src="https://img.shields.io/badge/Discord-RamieHashmi-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
