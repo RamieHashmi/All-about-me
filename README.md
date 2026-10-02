@@ -33,8 +33,7 @@ Some of the projects I've developed:
 
 | Project | Description |
 |--------|-------------|
-| **Project One** | Short description |
-| **Project Two** | Short description |
+| **ArchHub** | Fast-growing cheats for Roblox Rivals |
 
 ---
 
